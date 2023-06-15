@@ -1,0 +1,249 @@
+
+AdiBagsDB = {
+	["namespaces"] = {
+		["ItemLevel"] = {
+		},
+		["FilterOverride"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+					["overrides"] = {
+						[192867] = "Tradeskill#Jewelcrafting",
+						[193001] = "Equipment#Crafted",
+						[193466] = "Equipment#Crafted",
+						[192844] = "Tradeskill#Jewelcrafting",
+						[192860] = "Tradeskill#Jewelcrafting",
+						[192868] = "Tradeskill#Jewelcrafting",
+						[192845] = "Tradeskill#Jewelcrafting",
+						[190396] = "Tradeskill#Mining",
+						[192861] = "Tradeskill#Jewelcrafting",
+						[192948] = "Item Enhancement#Item Enhancement",
+						[192838] = "Tradeskill#Jewelcrafting",
+						[204194] = "Quest#Crests",
+						[204076] = "Quest#Crests",
+						[190311] = "Tradeskill#Mining",
+						[192839] = "Tradeskill#Jewelcrafting",
+						[192847] = "Tradeskill#Jewelcrafting",
+						[204195] = "Quest#Crests",
+						[192863] = "Tradeskill#Jewelcrafting",
+						[180653] = "Miscellaneous#Miscellaneous",
+						[188658] = "Tradeskill#Mining",
+						[192919] = "Item Enhancement#Item Enhancement",
+						[202046] = "New#Teleport",
+						[192855] = "Tradeskill#Jewelcrafting",
+						[192848] = "Tradeskill#Jewelcrafting",
+						[204196] = "Quest#Crests",
+						[200613] = "New#Teleport",
+						[192872] = "Tradeskill#Jewelcrafting",
+						[192880] = "Tradeskill#Jewelcrafting",
+						[110560] = "New#Teleport",
+						[190313] = "Tradeskill#Mining",
+						[192841] = "Tradeskill#Jewelcrafting",
+						[190394] = "Tradeskill#Mining",
+						[204078] = "Quest#Crests",
+						[192865] = "Tradeskill#Jewelcrafting",
+						[192999] = "Equipment#Crafted",
+						[6948] = "New#Teleport",
+						[198332] = "Equipment#Crafted",
+						[190314] = "Tradeskill#Mining",
+						[192842] = "Tradeskill#Jewelcrafting",
+						[192850] = "Tradeskill#Jewelcrafting",
+						[192858] = "Tradeskill#Jewelcrafting",
+						[193425] = "Equipment#Crafted",
+						[204077] = "Quest#Crests",
+						[204075] = "Quest#Crests",
+						[140192] = "New#Teleport",
+						[192961] = "Item Enhancement#Item Enhancement",
+						[204011] = "Item Enhancement#Item Enhancement",
+						[192851] = "Tradeskill#Jewelcrafting",
+						[204193] = "Quest#Crests",
+					},
+				},
+			},
+		},
+		["ItemCategory"] = {
+		},
+		["NewItem"] = {
+			["profiles"] = {
+				["Default"] = {
+					["highlight"] = "blizzard",
+				},
+			},
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["MoneyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["small"] = true,
+				},
+			},
+		},
+		["DataSource"] = {
+		},
+		["ItemSets"] = {
+		},
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Mogu Rune of Fate"] = false,
+						["Cyphers of the First Ones"] = false,
+						["Soul Cinders"] = false,
+						["Lesser Charm of Good Fortune"] = false,
+						["Infused Ruby"] = false,
+						["Valor"] = true,
+						["Conquest"] = false,
+						["Timeless Coin"] = false,
+						["Reservoir Anima"] = false,
+						["Cosmic Flux"] = false,
+						["Garrison Resources"] = false,
+						["Soul Ash"] = false,
+					},
+					["width"] = 10,
+				},
+			},
+		},
+		["Junk"] = {
+		},
+		["Equipment"] = {
+			["profiles"] = {
+				["Default"] = {
+					["dispatchRule"] = "one",
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Felwinter - Twisting Nether"] = "Default",
+		["Seloniaa - Ravencrest"] = "Default",
+		["Miquella - Twisting Nether"] = "Default",
+		["Koryxd - Twisting Nether"] = "Default",
+		["Injured - Twisting Nether"] = "Default",
+		["Korysp - Twisting Nether"] = "Default",
+		["Injured - Frostwolf"] = "Default",
+		["Amarya - Twisting Nether"] = "Default",
+		["Koryxd - Frostwolf"] = "Default",
+		["Selognia - Frostwolf"] = "Default",
+		["Icewyrm - Frostwolf"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["virtualStacks"] = {
+				["others"] = true,
+				["stackable"] = true,
+				["incomplete"] = true,
+			},
+			["maxHeight"] = 0.5,
+			["positions"] = {
+				["anchor"] = {
+					["xOffset"] = -1439.83056640625,
+					["yOffset"] = 313.4391479492188,
+				},
+				["Backpack"] = {
+					["xOffset"] = -901.59228515625,
+					["yOffset"] = 191.2308349609375,
+				},
+				["Bank"] = {
+					["xOffset"] = 917.671875,
+					["point"] = "BOTTOMLEFT",
+					["yOffset"] = 344.6352844238281,
+				},
+			},
+			["filters"] = {
+				["Hearthstones"] = false,
+			},
+			["experiments"] = {
+				["Bag Lag Fix"] = {
+					["Enabled"] = false,
+					["Percent"] = 1,
+					["Name"] = "Bag Lag Fix",
+					["Description"] = "This experiment will fix the lag when opening bags via per-item change draws instead of full redraws.",
+				},
+			},
+			["qualityOpacity"] = 0.6000000000000001,
+			["theme"] = {
+				["reagentBank"] = {
+					["borderWidth"] = 5,
+					["border"] = "Blizzard Chat Bubble",
+					["insets"] = 5,
+				},
+				["currentTheme"] = "legacy theme",
+				["themes"] = {
+					["legacy theme"] = {
+						["reagentBank"] = {
+							["sectionFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 0,
+								["g"] = 0.8196079134941101,
+								["size"] = 12,
+							},
+							["border"] = "Blizzard Chat Bubble",
+							["bagFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 1,
+								["g"] = 1,
+								["size"] = 16,
+							},
+							["background"] = "Blizzard Dialog Background",
+							["borderWidth"] = 5,
+							["insets"] = 5,
+						},
+						["bank"] = {
+							["sectionFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 0,
+								["g"] = 0.8196079134941101,
+								["size"] = 12,
+							},
+							["border"] = "Blizzard Chat Bubble",
+							["bagFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 1,
+								["g"] = 1,
+								["size"] = 16,
+							},
+							["background"] = "Blizzard Dialog Background",
+							["borderWidth"] = 5,
+							["insets"] = 5,
+						},
+						["backpack"] = {
+							["sectionFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 0,
+								["g"] = 0.8196079134941101,
+								["size"] = 12,
+							},
+							["border"] = "Blizzard Chat Bubble",
+							["bagFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 1,
+								["g"] = 1,
+								["size"] = 16,
+							},
+							["background"] = "Blizzard Dialog Background",
+							["borderWidth"] = 5,
+							["insets"] = 5,
+						},
+					},
+				},
+				["bank"] = {
+					["borderWidth"] = 5,
+					["border"] = "Blizzard Chat Bubble",
+					["insets"] = 5,
+				},
+				["backpack"] = {
+					["borderWidth"] = 5,
+					["border"] = "Blizzard Chat Bubble",
+					["insets"] = 5,
+				},
+			},
+		},
+	},
+}

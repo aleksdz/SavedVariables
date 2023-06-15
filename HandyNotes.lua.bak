@@ -1,0 +1,193 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Lisianthia - Defias Brotherhood"] = "Lisianthia - Defias Brotherhood",
+		["Vonshala - Defias Brotherhood"] = "Vonshala - Defias Brotherhood",
+		["Korysp - Twisting Nether"] = "Korysp - Twisting Nether",
+		["Aliethea - Defias Brotherhood"] = "Aliethea - Defias Brotherhood",
+		["Ellesandre - Defias Brotherhood"] = "Ellesandre - Defias Brotherhood",
+		["Seloniax - Twisting Nether"] = "Seloniax - Twisting Nether",
+		["Sobriquet - Twisting Nether"] = "Sobriquet - Twisting Nether",
+		["Dying - Twisting Nether"] = "Dying - Twisting Nether",
+		["Icewyrm - Frostwolf"] = "Icewyrm - Frostwolf",
+		["Amarya - Twisting Nether"] = "Amarya - Twisting Nether",
+		["Zappyboyo - Twisting Nether"] = "Zappyboyo - Twisting Nether",
+		["Dayv - Twisting Nether"] = "Dayv - Twisting Nether",
+		["Seloniax - Ravencrest"] = "Seloniax - Ravencrest",
+		["Restless - Twisting Nether"] = "Restless - Twisting Nether",
+		["Felwinter - Twisting Nether"] = "Felwinter - Twisting Nether",
+		["Seloniaa - Ravencrest"] = "Seloniaa - Ravencrest",
+		["Miquella - Twisting Nether"] = "Miquella - Twisting Nether",
+		["Selognia - Frostwolf"] = "Selognia - Frostwolf",
+		["Koryx - Twisting Nether"] = "Koryx - Twisting Nether",
+		["Elanoir - Defias Brotherhood"] = "Elanoir - Defias Brotherhood",
+		["Koryxd - Frostwolf"] = "Koryxd - Frostwolf",
+		["Injured - Twisting Nether"] = "Injured - Twisting Nether",
+		["Koryxd - Twisting Nether"] = "Koryxd - Twisting Nether",
+		["Selonia - Frostwolf"] = "Selonia - Frostwolf",
+		["Aliethea - Twisting Nether"] = "Aliethea - Twisting Nether",
+		["Injured - Frostwolf"] = "Injured - Frostwolf",
+		["Anhædra - Outland"] = "Anhædra - Outland",
+		["Selonialt - Ravencrest"] = "Selonialt - Ravencrest",
+		["Anhaedra - Lightbringer"] = "Anhaedra - Lightbringer",
+		["Korym - Twisting Nether"] = "Korym - Twisting Nether",
+	},
+	["profiles"] = {
+		["Lisianthia - Defias Brotherhood"] = {
+		},
+		["Vonshala - Defias Brotherhood"] = {
+		},
+		["Korysp - Twisting Nether"] = {
+		},
+		["Aliethea - Defias Brotherhood"] = {
+		},
+		["Ellesandre - Defias Brotherhood"] = {
+		},
+		["Seloniax - Twisting Nether"] = {
+		},
+		["Sobriquet - Twisting Nether"] = {
+		},
+		["Dying - Twisting Nether"] = {
+		},
+		["Icewyrm - Frostwolf"] = {
+		},
+		["Amarya - Twisting Nether"] = {
+		},
+		["Zappyboyo - Twisting Nether"] = {
+		},
+		["Dayv - Twisting Nether"] = {
+		},
+		["Seloniax - Ravencrest"] = {
+		},
+		["Restless - Twisting Nether"] = {
+		},
+		["Felwinter - Twisting Nether"] = {
+		},
+		["Seloniaa - Ravencrest"] = {
+		},
+		["Miquella - Twisting Nether"] = {
+		},
+		["Selognia - Frostwolf"] = {
+		},
+		["Koryx - Twisting Nether"] = {
+		},
+		["Elanoir - Defias Brotherhood"] = {
+		},
+		["Koryxd - Frostwolf"] = {
+		},
+		["Injured - Twisting Nether"] = {
+		},
+		["Koryxd - Twisting Nether"] = {
+		},
+		["Selonia - Frostwolf"] = {
+		},
+		["Aliethea - Twisting Nether"] = {
+		},
+		["Injured - Frostwolf"] = {
+		},
+		["Anhædra - Outland"] = {
+		},
+		["Selonialt - Ravencrest"] = {
+		},
+		["Anhaedra - Lightbringer"] = {
+		},
+		["Korym - Twisting Nether"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Lisianthia - Defias Brotherhood"] = "Lisianthia - Defias Brotherhood",
+		["Vonshala - Defias Brotherhood"] = "Vonshala - Defias Brotherhood",
+		["Korysp - Twisting Nether"] = "Korysp - Twisting Nether",
+		["Aliethea - Defias Brotherhood"] = "Aliethea - Defias Brotherhood",
+		["Ellesandre - Defias Brotherhood"] = "Ellesandre - Defias Brotherhood",
+		["Seloniax - Twisting Nether"] = "Seloniax - Twisting Nether",
+		["Sobriquet - Twisting Nether"] = "Sobriquet - Twisting Nether",
+		["Dying - Twisting Nether"] = "Dying - Twisting Nether",
+		["Icewyrm - Frostwolf"] = "Icewyrm - Frostwolf",
+		["Amarya - Twisting Nether"] = "Amarya - Twisting Nether",
+		["Zappyboyo - Twisting Nether"] = "Zappyboyo - Twisting Nether",
+		["Dayv - Twisting Nether"] = "Dayv - Twisting Nether",
+		["Seloniax - Ravencrest"] = "Seloniax - Ravencrest",
+		["Restless - Twisting Nether"] = "Restless - Twisting Nether",
+		["Felwinter - Twisting Nether"] = "Felwinter - Twisting Nether",
+		["Seloniaa - Ravencrest"] = "Seloniaa - Ravencrest",
+		["Miquella - Twisting Nether"] = "Miquella - Twisting Nether",
+		["Selognia - Frostwolf"] = "Selognia - Frostwolf",
+		["Koryx - Twisting Nether"] = "Koryx - Twisting Nether",
+		["Elanoir - Defias Brotherhood"] = "Elanoir - Defias Brotherhood",
+		["Koryxd - Frostwolf"] = "Koryxd - Frostwolf",
+		["Injured - Twisting Nether"] = "Injured - Twisting Nether",
+		["Koryxd - Twisting Nether"] = "Koryxd - Twisting Nether",
+		["Selonia - Frostwolf"] = "Selonia - Frostwolf",
+		["Aliethea - Twisting Nether"] = "Aliethea - Twisting Nether",
+		["Injured - Frostwolf"] = "Injured - Frostwolf",
+		["Anhædra - Outland"] = "Anhædra - Outland",
+		["Selonialt - Ravencrest"] = "Selonialt - Ravencrest",
+		["Anhaedra - Lightbringer"] = "Anhaedra - Lightbringer",
+		["Korym - Twisting Nether"] = "Korym - Twisting Nether",
+	},
+	["profiles"] = {
+		["Lisianthia - Defias Brotherhood"] = {
+		},
+		["Vonshala - Defias Brotherhood"] = {
+		},
+		["Korysp - Twisting Nether"] = {
+		},
+		["Aliethea - Defias Brotherhood"] = {
+		},
+		["Ellesandre - Defias Brotherhood"] = {
+		},
+		["Seloniax - Twisting Nether"] = {
+		},
+		["Sobriquet - Twisting Nether"] = {
+		},
+		["Dying - Twisting Nether"] = {
+		},
+		["Icewyrm - Frostwolf"] = {
+		},
+		["Amarya - Twisting Nether"] = {
+		},
+		["Zappyboyo - Twisting Nether"] = {
+		},
+		["Dayv - Twisting Nether"] = {
+		},
+		["Seloniax - Ravencrest"] = {
+		},
+		["Restless - Twisting Nether"] = {
+		},
+		["Felwinter - Twisting Nether"] = {
+		},
+		["Seloniaa - Ravencrest"] = {
+		},
+		["Miquella - Twisting Nether"] = {
+		},
+		["Selognia - Frostwolf"] = {
+		},
+		["Koryx - Twisting Nether"] = {
+		},
+		["Elanoir - Defias Brotherhood"] = {
+		},
+		["Koryxd - Frostwolf"] = {
+		},
+		["Injured - Twisting Nether"] = {
+		},
+		["Koryxd - Twisting Nether"] = {
+		},
+		["Selonia - Frostwolf"] = {
+		},
+		["Aliethea - Twisting Nether"] = {
+		},
+		["Injured - Frostwolf"] = {
+		},
+		["Anhædra - Outland"] = {
+		},
+		["Selonialt - Ravencrest"] = {
+		},
+		["Anhaedra - Lightbringer"] = {
+		},
+		["Korym - Twisting Nether"] = {
+		},
+	},
+}
